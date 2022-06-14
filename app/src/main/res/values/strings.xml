@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Flow, State Flow, Shared Flow Practice</string>
+    <string name="user_id">User ID: %d</string>
+    <string name="id">Id: %d</string>
+    <string name="title">Title: %s</string>
+    <string name="body">Body: %s</string>
+</resources>
